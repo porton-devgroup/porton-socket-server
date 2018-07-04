@@ -13,5 +13,9 @@
     "express": "4.16.3",
     "rtcmulticonnection": "3.4.5",
     "shelljs": "0.8.2"
+  },
+  "engines": {
+    "node": "8.11.1"
   }
 }
+
